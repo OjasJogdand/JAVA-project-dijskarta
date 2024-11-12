@@ -1,0 +1,21 @@
+Shortest distances from Pune:
+To Lucknow: 2046
+To Ahmedabad: 660
+To Delhi: 1498
+To Patna: 2450
+To Bengaluru: 839
+To Vishakhapatnam: 1178
+To Bhubaneswar: 1619
+To Udaipur: 915
+To Agra: 1738
+To Kolkata: 2034
+To Mumbai: 148
+To Hyderabad: 560
+To Kanpur: 2015
+To Chennai: 1184
+To Kochi: 1196
+To Jaipur: 1191
+To Thiruvananthapuram: 1402
+To Varanasi: 2343
+To Goa: 442
+To Pune: 0
